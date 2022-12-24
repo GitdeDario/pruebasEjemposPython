@@ -1,0 +1,2 @@
+CONSTANTE = 426
+OTRA = 6
